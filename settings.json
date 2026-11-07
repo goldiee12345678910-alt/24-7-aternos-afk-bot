@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "chatgaming2 cloud hosting",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "chatgaming.aternos.me",
-    "port": 56702,
+    "ip": "playfun.sadhost.com",
+    "port": 28174,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
+        "Subscribe to chatgaming2",
         "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
       ]
     },
